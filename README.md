@@ -24,3 +24,55 @@ Fuente de datos: https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra
 ### Ancash
 
 ![Vacunados por Provincia en ANCASH](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20ANCASH.png)
+
+### Apurimac
+
+### Arequipa
+
+### Ayacucho
+
+### Cajamarca
+
+### Callao
+
+### Cusco
+
+### Huancavelica
+
+### Huanuco
+
+![Vacunados por Provincia en HUANUCO](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20HUANUCO.png)
+
+### Ica
+
+### Junin
+
+### La Libertad
+
+![Vacunados por Provincia en LA LIBERTAD](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20LA%20LIBERTAD.png)
+
+### Lambayeque
+
+### Lima
+
+![Vacunados por Provincia en LIMA](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20LIMA.png)
+
+### Loreto
+
+### Madre de Dios
+
+### Moquegua
+
+### Pasco
+
+### Piura
+
+### Puno
+
+### San Martin
+
+### Tacna
+
+### Tumbes
+
+### Ucayali
