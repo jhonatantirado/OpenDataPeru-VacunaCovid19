@@ -14,3 +14,13 @@ Fuente de datos: https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra
 ## Vacunados por Departamento
 
 ![Vacunados por Departamento](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Departamento.png)
+
+## Vacunados por Provincia
+
+### Amazonas
+
+![Vacunados por Provincia en AMAZONAS](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20AMAZONAS.png)
+
+### Ancash
+
+![Vacunados por Provincia en ANCASH](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20ANCASH.png)
