@@ -27,17 +27,31 @@ Fuente de datos: https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra
 
 ### Apurimac
 
+![Vacunados por Provincia en APURIMAC](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20APURIMAC.png)
+
 ### Arequipa
+
+![Vacunados por Provincia en AREQUIPA](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20AREQUIPA.png)
 
 ### Ayacucho
 
+![Vacunados por Provincia en AYACUCHO](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20AYACUCHO.png)
+
 ### Cajamarca
+
+![Vacunados por Provincia en CAJAMARCA](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20CAJAMARCA.png)
 
 ### Callao
 
+![Vacunados por Provincia en CALLAO](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20CALLAO.png)
+
 ### Cusco
 
+![Vacunados por Provincia en CUSCO](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20CUSCO.png)
+
 ### Huancavelica
+
+![Vacunados por Provincia en HUANCAVELICA](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20HUANCAVELICA.png)
 
 ### Huanuco
 
@@ -45,7 +59,11 @@ Fuente de datos: https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra
 
 ### Ica
 
+![Vacunados por Provincia en ICA](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20ICA.png)
+
 ### Junin
+
+![Vacunados por Provincia en JUNIN](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20JUNIN.png)
 
 ### La Libertad
 
@@ -53,26 +71,49 @@ Fuente de datos: https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra
 
 ### Lambayeque
 
+![Vacunados por Provincia en LAMBAYEQUE](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20LAMBAYEQUE.png)
+
+
 ### Lima
 
 ![Vacunados por Provincia en LIMA](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20LIMA.png)
 
 ### Loreto
 
+![Vacunados por Provincia en LORETO](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20LORETO.png)
+
 ### Madre de Dios
+
+![Vacunados por Provincia en MADRE DE DIOS](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20MADRE%20DE%20DIOS.png)
 
 ### Moquegua
 
+![Vacunados por Provincia en MOQUEGUA](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20MOQUEGUA.png)
+
 ### Pasco
+
+![Vacunados por Provincia en PASCO](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20PASCO.png)
 
 ### Piura
 
+![Vacunados por Provincia en PIURA](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20PIURA.png)
+
 ### Puno
+
+![Vacunados por Provincia en PUNO](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20PUNO.png)
 
 ### San Martin
 
+![Vacunados por Provincia en SAN MARTIN](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20SAN%20MARTIN.png)
+
 ### Tacna
+
+![Vacunados por Provincia en TACNA](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20TACNA.png)
 
 ### Tumbes
 
+![Vacunados por Provincia en TUMBES](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20TUMBES.png)
+
 ### Ucayali
+
+![Vacunados por Provincia en UCAYALI](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Vacunados%20por%20Provincia%20en%20UCAYALI.png)
