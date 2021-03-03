@@ -4,6 +4,9 @@ Fuente de datos: https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra
 
 Datos actualizados al 2021-02-27
 
+## Promedio móvil (7 días) de vacunados a nivel nacional
+
+![Promedio móvil (7 días) de vacunados a nivel nacional](https://github.com/jhonatantirado/OpenDataPeru-VacunaCovid19/blob/main/imagenes/Promedio%20Movil%20de%20Vacunados%20por%20Fecha.png)
 
 ## Vacunados por Grupo
 
