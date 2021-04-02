@@ -2,7 +2,7 @@
 
 Fuente de datos: https://www.datosabiertos.gob.pe/dataset/vacunaci%C3%B3n-contra-covid-19-ministerio-de-salud-minsa
 
-Datos actualizados al 2021-03-04
+Datos actualizados al 2021-03-16
 
 ## Promedio móvil (7 días) de vacunados a nivel nacional
 
